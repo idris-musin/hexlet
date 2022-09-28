@@ -14,6 +14,7 @@ import static ru.itpark.lesson19.Lesson19.Task19;
 import static ru.itpark.lesson2.Lesson2.Task2;
 import static ru.itpark.lesson20.Lesson20.Task20;
 import static ru.itpark.lesson21.Lesson21.Task21;
+import static ru.itpark.lesson22.Lesson22.Task22;
 import static ru.itpark.lesson3.Lesson3.Task3;
 import static ru.itpark.lesson4.Lesson4.Task4;
 import static ru.itpark.lesson5.Lesson5.Task5;
@@ -67,5 +68,7 @@ public class Main {
         Task20();
         System.out.println("\nLesson 21:");
         Task21();
+        System.out.println("\nLesson 22:");
+        Task22();
     }
 }
