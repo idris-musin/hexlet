@@ -22,6 +22,7 @@ import static ru.itpark.lesson6.Lesson6.Task6;
 import static ru.itpark.lesson7.Lesson7.Task7;
 import static ru.itpark.lesson8.Lesson8.Task8;
 import static ru.itpark.lesson9.Lesson9.Task9;
+import static ru.itpark.testLesson.TestLesson1.Test1;
 
 public class Main {
     public static void main(String[] args) {
@@ -70,5 +71,7 @@ public class Main {
         Task21();
         System.out.println("\nLesson 22:");
         Task22();
+        System.out.println("\nTest 1:");
+        Test1();
     }
 }
