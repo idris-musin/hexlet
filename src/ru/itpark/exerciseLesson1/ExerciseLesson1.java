@@ -1,7 +1,7 @@
-package ru.itpark.testLesson;
+package ru.itpark.exerciseLesson1;
 
-public class TestLesson1 {
-    public static void Test1() {
+public class ExerciseLesson1 {
+    public static void Exercise1() {
 
         System.out.println(isPowerOfThree(1)); // true
         System.out.println(isPowerOfThree(3)); // true

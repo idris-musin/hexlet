@@ -1,5 +1,6 @@
 package ru.itpark;
 
+import static ru.itpark.exerciseLesson1.ExerciseLesson1.Exercise1;
 import static ru.itpark.lesson1.Lesson1.Task1;
 import static ru.itpark.lesson10.Lesson10.Task10;
 import static ru.itpark.lesson11.Lesson11.Task11;
@@ -22,7 +23,6 @@ import static ru.itpark.lesson6.Lesson6.Task6;
 import static ru.itpark.lesson7.Lesson7.Task7;
 import static ru.itpark.lesson8.Lesson8.Task8;
 import static ru.itpark.lesson9.Lesson9.Task9;
-import static ru.itpark.testLesson.TestLesson1.Test1;
 
 public class Main {
     public static void main(String[] args) {
@@ -72,6 +72,6 @@ public class Main {
         System.out.println("\nLesson 22:");
         Task22();
         System.out.println("\nTest 1:");
-        Test1();
+        Exercise1();
     }
 }
