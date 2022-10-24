@@ -2,6 +2,7 @@ package ru.itpark;
 
 import static ru.itpark.exerciseLesson1.ExerciseLesson1.Exercise1;
 import static ru.itpark.exerciseLesson2.ExerciseLesson2.Exercise2;
+import static ru.itpark.exerciseLesson3.ExerciseLesson3.Exercise3;
 import static ru.itpark.lesson1.Lesson1.Task1;
 import static ru.itpark.lesson10.Lesson10.Task10;
 import static ru.itpark.lesson11.Lesson11.Task11;
@@ -76,5 +77,7 @@ public class Main {
         Exercise1();
         System.out.println("\nExercise 2:");
         Exercise2();
+        System.out.println("\nExercise 3:");
+        Exercise3();
     }
 }
