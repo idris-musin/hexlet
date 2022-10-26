@@ -4,6 +4,7 @@ import static ru.itpark.exerciseLesson1.ExerciseLesson1.Exercise1;
 import static ru.itpark.exerciseLesson2.ExerciseLesson2.Exercise2;
 import static ru.itpark.exerciseLesson3.ExerciseLesson3.Exercise3;
 import static ru.itpark.exerciseLesson4.ExerciseLesson4.Exercise4;
+import static ru.itpark.exerciseLesson5.ExerciseLesson5.Exercise5;
 import static ru.itpark.lesson1.Lesson1.Task1;
 import static ru.itpark.lesson10.Lesson10.Task10;
 import static ru.itpark.lesson11.Lesson11.Task11;
@@ -82,5 +83,7 @@ public class Main {
         Exercise3();
         System.out.println("\nExercise 4:");
         Exercise4();
+        System.out.println("\nExercise 5:");
+        Exercise5();
     }
 }
